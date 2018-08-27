@@ -1,0 +1,33 @@
+# README #
+This is my solution to the final project in Object Oriented Programming 10 c,
+it is to be used for demonstrative purposes only.
+
+It is a Game of Life like simulation where the goal is to simulate an ecosystem
+of carnivores, herbivores and... grass.
+
+Build instructions for Linux
+============================
+
+Building and running the program
+-------------------------------------------
+To build the program, open a terminal, navigate to
+the directory and type:
+
+	java -jar pasture.jar
+
+
+Build instructions for Windows
+==============================
+To build the program, open a command prompt, navigate to
+the directory and type:
+
+	java -jar pasture.jar
+
+
+Build instructions for OS X (experimental)
+==========================================
+
+Should be roughly the same procedure as for Linux.
+
+Since I am not a Mac user (or have access to Macs), I will
+only provide limited support for this platform.
